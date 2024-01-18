@@ -8,7 +8,7 @@
 
 ## Language
 
-- Python
+- **Python**
 
 ## Lab Experiment List
 
