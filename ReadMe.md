@@ -4,7 +4,7 @@
 
 ## Authors
 
-- [@Munawer_taj](https://https://github.com/Munawertaj)
+- [Munawer_taj](https://https://github.com/Munawertaj)
 
 ## Language
 
