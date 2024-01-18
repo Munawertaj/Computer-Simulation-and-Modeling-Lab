@@ -12,9 +12,9 @@
 
 ## Lab Experiment List
 
-- **Simulation of a Pure Pursuit problem**
-- **Simulation of Critical Path Method**
-- **Simulation of Linear Congruential Method**
-- **Simulation of a Chemical Reactor**
-- **Simulation of a Cubic Bezier Curve**
-- **Forecasting by ARIMA model**
+- Simulation of a Pure Pursuit problem
+- Simulation of Critical Path Method
+- Simulation of Linear Congruential Method
+- Simulation of a Chemical Reactor
+- Simulation of a Cubic Bezier Curve
+- Forecasting by ARIMA model
